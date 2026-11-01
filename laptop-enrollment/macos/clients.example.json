@@ -1,0 +1,14 @@
+{
+  "contoso": {
+    "client_id": "BUSINESSAPI.00000000-0000-0000-0000-000000000000",
+    "key_id": "00000000-0000-0000-0000-000000000000",
+    "private_key_path": "keys/contoso.pem",
+    "addigy_server_name": "Addigy"
+  },
+  "fabrikam": {
+    "client_id": "BUSINESSAPI.00000000-0000-0000-0000-000000000000",
+    "key_id": "00000000-0000-0000-0000-000000000000",
+    "private_key_path": "keys/fabrikam.pem",
+    "addigy_server_name": "Addigy - Fabrikam"
+  }
+}

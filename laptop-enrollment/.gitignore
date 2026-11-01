@@ -1,0 +1,9 @@
+# Client credentials and device data never go into git
+macos/clients.json
+macos/keys/
+*.pem
+*.p8
+windows/clients.cmd
+windows/hashes/
+*.csv
+__pycache__/
